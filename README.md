@@ -30,11 +30,6 @@ Focado em construir sistemas resilientes, automação e segurança. Aspirante a 
 
 ---
 
-### 🏰 Home Base Specs
-* **Main Cockpit:** Ryzen 5 5600X | RTX 2060 Super
-* **Server Unit:** HP Laptop running **Docker Orchestration** via Portainer.
-* **Workflow:** VS Code Remote SSH -> Linux Server.
-
 ### 🏎️ Hobbies
 * Programming & Logic Challenges
 * Hot Wheels Acceleracers (Silencerz Fan? 😉)
