@@ -24,8 +24,10 @@ Focado em construir sistemas resilientes, automação e segurança. Aspirante a 
 
 ### Mission Log (Projects)
 
- **[Project V-Link]** - *Chat E2EE Seguro para zonas de censura.* (Em desenvolvimento no Lab Local 🏠)
+ **[Project V-Link]** - *Chat E2EE Seguro para zonas de censura.* (Em desenvolvimento no Lab Local)
+ 
  **[K-Dream Budgeter](https://github.com/Brunom83/K-Dream-Budgeter)** - *Aplicação Financeira Social para objetivos partilhados.*
+ 
  **[Digital Nexus Tracker](https://github.com/Brunom83/Digital-Nexus-Tracker)** - *Desktop App (Python/Qt) para gestão de economia em MMOs.*
 
 ---
