@@ -1,11 +1,11 @@
 # Yo! I'm Vicius (Bruno) 🇵🇹🇻🇪
 
-### 🚀 Backend Developer & Home Lab Enthusiast
+### Backend Developer & Home Lab Enthusiast
 Focado em construir sistemas resilientes, automação e segurança. Aspirante a trabalhar no mercado Asiático (JP/KR/CN).
 
 ---
 
-### 🛠️ The Engine Room (Tech Stack)
+### The Engine Room (Tech Stack)
 *As ferramentas que uso para construir o futuro:*
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,17 +22,17 @@ Focado em construir sistemas resilientes, automação e segurança. Aspirante a 
 
 ---
 
-### 🔭 Mission Log (Projects)
+### Mission Log (Projects)
 
-* 🔒 **[Project V-Link]** - *Chat E2EE Seguro para zonas de censura.* (Em desenvolvimento no Lab Local 🏠)
-* 🇰🇷 **[K-Dream Budgeter](https://github.com/Brunom83/K-Dream-Budgeter)** - *Aplicação Financeira Social para objetivos partilhados.*
-* 🦖 **[Digital Nexus Tracker](https://github.com/Brunom83/Digital-Nexus-Tracker)** - *Desktop App (Python/Qt) para gestão de economia em MMOs.*
+ **[Project V-Link]** - *Chat E2EE Seguro para zonas de censura.* (Em desenvolvimento no Lab Local 🏠)
+ **[K-Dream Budgeter](https://github.com/Brunom83/K-Dream-Budgeter)** - *Aplicação Financeira Social para objetivos partilhados.*
+ **[Digital Nexus Tracker](https://github.com/Brunom83/Digital-Nexus-Tracker)** - *Desktop App (Python/Qt) para gestão de economia em MMOs.*
 
 ---
 
-### 🏎️ Hobbies
+###  Hobbies
 * Programming & Logic Challenges
-* Hot Wheels Acceleracers (Silencerz Fan? 😉)
+* Hot Wheels Acceleracers
 * Car Tuning
 
 ---
