@@ -34,7 +34,6 @@ Focado em construir sistemas resilientes, automação e segurança. Aspirante a 
 
 ###  Hobbies
 * Programming & Logic Challenges
-* Hot Wheels Acceleracers
 * Car Tuning
 
 ---
