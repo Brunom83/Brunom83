@@ -1,7 +1,7 @@
-# Yo! I'm Vicius (Bruno) 🇵🇹🇻🇪
+# Yo! I'm Vicius
 
 ### Backend Developer & Home Lab Enthusiast
-Focado em construir sistemas resilientes, automação e segurança. Aspirante a trabalhar no mercado Asiático (JP/KR/CN).
+Focado em construir sistemas resilientes, automação e segurança.
 
 ---
 
